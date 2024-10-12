@@ -6,5 +6,5 @@ def print_table(number):
 
 # Main program
 if __name__ == "__main__":
-    number = 5  # You can change the number or pass it as an argument
+    number = 35  # You can change the number or pass it as an argument
     print_table(number)
